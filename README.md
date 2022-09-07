@@ -18,4 +18,5 @@ The museum has a famous **Quran collection**, from around the world n different 
 * Modi pearls
 * Badshahi Ashurkhana
 * Nehru zoological park
-* charminar
+
+**[Link to AboutMe page](AboutMe.md)**
