@@ -39,3 +39,23 @@ The table gives information about 4 cities which i recommend someone to visit.
 
 > "Do not allow yourselves to be disheartened by any failure as long as you have done your best." - *Mother Teresa*
 
+---
+
+# code fencing
+> How do I get PHP errors to display?
+
+https://stackoverflow.com/questions/1053424/how-do-i-get-php-errors-to-display
+
+```
+# display no errs to user
+php_flag display_startup_errors off
+php_flag display_errors off
+php_flag html_errors off
+# log to file
+php_flag log_errors on
+php_value error_log /location/to/php_error.log
+
+```
+
+https://css-tricks.com/snippets/htaccess/php-error-logging/
+
