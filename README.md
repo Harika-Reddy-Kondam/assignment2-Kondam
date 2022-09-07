@@ -20,3 +20,14 @@ The museum has a famous **Quran collection**, from around the world n different 
 * Nehru zoological park
 
 **[Link to AboutMe page](AboutMe.md)**
+
+# Table with 4 cities
+
+The table gives information about 4 cities which i recommend someone to visit.
+
+| Name of the city | Location | Amount of time to spend | 
+| --- | --- | ---: |
+| Hyderabad | Charminar | 5 hours |
+| Delhi | Red fort | 4 hours |
+| chennai | Marina Beach | 6 hours |
+| Bangalore | Cubbon park | 3 hours |
