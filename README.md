@@ -31,3 +31,11 @@ The table gives information about 4 cities which i recommend someone to visit.
 | Delhi | Red fort | 4 hours |
 | chennai | Marina Beach | 6 hours |
 | Bangalore | Cubbon park | 3 hours |
+
+---
+
+# Pithy Quotes
+> "You should not give up and we should not allow the problem to defeat us." - *APJ Abdul Kalam*  <br>
+
+> "Do not allow yourselves to be disheartened by any failure as long as you have done your best." - *Mother Teresa*
+
